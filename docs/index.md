@@ -3,6 +3,7 @@ hide:
   - toc
   - navigation
 ---
+
 <!--
 CHECKLIST FOR THIS PAGE:
 - [ ] Replace [YOUR NAME] with your full name (3 places)
@@ -16,13 +17,11 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
 -->
 
-
-
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Zoraiz Lajwer" class="profile-photo">
+  <h1>Zoraiz Lajwer</h1>
+  <p><strong>Researcher & GIS Analyst</strong></p>
+  <p><em>Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
 </div>
 
 ---
@@ -53,8 +52,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
-
+[Download CV :material-download:](assets/ZoraizLajwer-CV.pdf){ .md-button }
 
 ---
 
@@ -62,57 +60,52 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+- :material-layers:{ .lg .middle } **GIS & Remote Sensing**
 
-    ---
+  ***
+  - QGIS, ArcGIS Pro, Google Earth Engine
+  - GDAL / OGR, GRASS GIS
+  - Multispectral and SAR image analysis
+  - Cloud Native Geospatial (COG, STAC, Zarr)
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+- :material-code-braces:{ .lg .middle } **Programming**
 
--   :material-code-braces:{ .lg .middle } **Programming**
+  ***
+  - Python — GeoPandas, NumPy, Pandas, Matplotlib
+  - R — sf, terra, ggplot2
+  - JavaScript — Leaflet, MapLibre GL
+  - SQL, PostgreSQL + PostGIS
 
-    ---
+- :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+  ***
+  - Supervised classification — Random Forest, XGBoost
+  - Deep learning for image segmentation — U-Net, SAM
+  - scikit-learn, PyTorch, TensorFlow
+  - Object detection in satellite imagery
 
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+- :material-earth:{ .lg .middle } **Web Mapping & Data**
 
-    ---
+  ***
+  - Leaflet.js, Folium, MapLibre GL JS
+  - Cloud storage — AWS S3, Google Cloud Storage
+  - Data formats — GeoTIFF, GeoParquet, NetCDF
+  - Streamlit for data-driven web apps
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+- :material-database:{ .lg .middle } **Data & Cloud**
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
+  ***
+  - PostgreSQL + PostGIS
+  - Cloud storage: AWS S3, Google Cloud Storage
+  - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
-    ---
+- :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
+      - Mission planning and flight operations
+      - Photogrammetry: Agisoft Metashape, OpenDroneMap
+      - Point cloud processing: CloudCompare, PDAL
 
--   :material-database:{ .lg .middle } **Data & Cloud**
-
-    ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
-
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
-</div>
-
+  </div>
 
 ---
 
